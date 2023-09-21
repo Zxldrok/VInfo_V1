@@ -1,6 +1,7 @@
 # VInfo_V1
 
 Petit logiciel qui va te permettre de savoir les composants de ton Pc facilement !
+Et aussi le logiciel va t'indiquer sur un de tes composants on besoin de mise à Jour !
 Ceci et simplement que la V1 donc il manque beaucoup de fonctionnalités !
 Cela va être corrigé dans la V2! Merci !
 
