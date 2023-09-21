@@ -2,7 +2,7 @@
 
 Petit logiciel qui va te permettre de savoir les composants de ton Pc facilement !
 Ceci et simplement que la V1 donc il manque beaucoup de fonctionnalités !
-Cela va être corrigé dans le vUn ! Merci !
+Cela va être corrigé dans la V1 ! Merci !
 
 Avant de commencer toute chose, le logiciel n'est pas complet il manque un fichier qu'il faut venir télécharger sur mon discord: https://discord.gg/9Mga5mTCwU
 
